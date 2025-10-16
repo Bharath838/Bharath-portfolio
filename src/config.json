@@ -1,0 +1,67 @@
+{
+  "name": "Bharath Kumar",
+  "location": "Gadwal, Telangana",
+  "phone": "+91 9440972000",
+  "email": "bharathkumaraadigonda@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/bharath-kumar-lkdn/",
+  "leetcode": "https://leetcode.com/u/bharath7001/",
+  "summary": "Motivated Computer Science undergraduate with hands-on experience in data science, data structures and algorithms, and IT support. Skilled in problem-solving, technical troubleshooting, and applying analytical tools to real-world challenges. Seeking to contribute technical expertise and adaptability to dynamic team environments.",
+  "education": {
+    "degree": "B.Tech, Computer Science & Engineering",
+    "school": "Bennett University",
+    "years": "2022 – Present",
+    "gpa": "8.51",
+    "coursework": [
+      "Data Structures and Algorithms",
+      "Database Management Systems",
+      "Artificial Intelligence",
+      "Operating Systems",
+      "Object-Oriented Programming"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Data Science Intern",
+      "company": "Celebal Technologies",
+      "period": "May 2025 – July 2025",
+      "details": [
+        "Developed and evaluated data science and ML models using Python, Pandas, and Scikit-learn.",
+        "Built end-to-end ML pipelines including preprocessing, visualization, and evaluation.",
+        "Contributed to project prototypes showcasing practical ML applications in business solutions."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Breast Cancer Prediction (ML Project)",
+      "period": "Feb 2023 – Apr 2023",
+      "supervisor": "Prof. Anuj Kumar Bharti",
+      "details": [
+        "Implemented ML models (Random Forest, SVM) for diagnostic prediction.",
+        "Evaluated using ROC-AUC, precision, and recall; ranked Top 10% among 60+ projects."
+      ]
+    },
+    {
+      "title": "Social Media Sentiment Analysis (Python, NLP)",
+      "period": "Feb 2025 – Apr 2025",
+      "supervisor": "Prof. Adithya Bharadwaj",
+      "details": [
+        "Analyzed 5000+ tweets using TF-IDF and Logistic Regression.",
+        "Visualized sentiment trends using Seaborn and Matplotlib."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "MySQL", "HTML", "CSS", "C++"],
+    "core": ["Data Structures & Algorithms", "Object-Oriented Programming"],
+    "tools": ["Jupyter Notebook", "VS Code", "Git", "Microsoft Office", "Jira"]
+  },
+  "certifications": [
+    "Data Analyst Course",
+    "Data Structures and Algorithms Course"
+  ],
+  "achievements": [
+    "Achieved a LeetCode contest rating of 1686, demonstrating strong algorithmic ability.",
+    "Secured a top rank in Bennett University’s internal coding challenge organized by the Coding Club."
+  ]
+}
